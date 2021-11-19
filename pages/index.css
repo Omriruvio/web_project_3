@@ -1,9 +1,10 @@
-/* normalize */
+/* normalize & fonts */
 @import url("../vendor/normalize.css");
-/* normalize */
+@import url("../vendor/fonts.css");
+/* normalize & fonts*/
 
 /* blocks */
-
+@import url("../blocks/page/page.css");
 /* blocks */
 
 /* elements */
