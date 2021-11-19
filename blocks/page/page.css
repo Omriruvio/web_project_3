@@ -7,10 +7,9 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
 
-  /* max-width: 1600px; */
-  margin: 0 auto;
+  width: 100vw;
+  height: 100vh;
   background-color: #2a2c2f;
-
-  height: 100vh; /* temporary for preventing my eye burn */
-  width: 100vw; /* temporary for preventing my eye burn */
+  text-align: center;
+  color: #FFFFFF;
 }
