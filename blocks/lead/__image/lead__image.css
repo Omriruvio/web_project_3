@@ -3,3 +3,11 @@
   max-width: 100%;
   margin: auto;
 }
+
+/* TEMPORARY FOR MEDIA QUERY ON DEVTOOLS REMOVE OR IGNORE PLEASE */
+@media screen and (max-width: 1280px) {
+  .lead__image {
+    width: 984px;
+  }
+}
+/* TEMPORARY FOR MEDIA QUERY ON DEVTOOLS REMOVE OR IGNORE PLEASE */
