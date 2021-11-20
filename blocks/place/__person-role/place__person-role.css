@@ -1,0 +1,9 @@
+.place__person-role {
+  text-transform: uppercase;
+  color: #aaaaaa;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 1.25;
+  letter-spacing: 0.12em;
+  margin-bottom: 8px;
+}

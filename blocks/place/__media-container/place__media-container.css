@@ -1,0 +1,4 @@
+.place__media-container {
+  grid-area: media;
+  max-width: 460px;
+}

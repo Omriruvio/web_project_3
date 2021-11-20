@@ -1,0 +1,9 @@
+.place__country {
+  margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .place__country {
+    display: inline;
+  }
+}
