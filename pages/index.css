@@ -50,4 +50,6 @@
 @import url("../blocks/buy-button/_place/buy-button_place_cover.css");
 @import url("../blocks/buy-button/_place/buy-button_place_places-media.css");
 @import url("../blocks/buy-button/_place/buy-button_place_places-link.css");
+@import url("../blocks/buy-button/_hover/buy-button_hover.css");
+@import url("../blocks/cover/_hover/cover_hover.css");
 /* modifiers */

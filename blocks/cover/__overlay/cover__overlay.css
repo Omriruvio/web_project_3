@@ -6,11 +6,3 @@
   opacity: 0.3;
   transition: opacity 1s;
 }
-
-.cover:hover .cover__overlay {
-  opacity: 0.8;
-}
-
-.buy-button_place_cover:hover + .cover__overlay {
-  opacity: 0.8;
-}
