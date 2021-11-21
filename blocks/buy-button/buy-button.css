@@ -2,7 +2,7 @@
   display: inline-block;
   text-decoration: none;
   color: inherit;
-  background: #0278fe;
+  background-color: #0278fe;
   border-radius: 4px;
   padding: 13px 20px;
   text-align: center;
@@ -10,4 +10,9 @@
   font-weight: normal;
   font-size: 18px;
   line-height: 1.21;
+  transition: background-color 0.6s;
+}
+
+.buy-button:hover {
+  background-color: #0063d2;
 }

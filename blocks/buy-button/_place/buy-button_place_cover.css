@@ -1,4 +1,5 @@
 .buy-button_place_cover {
   width: 137px;
   height: 48px;
+  z-index: 1;
 }
