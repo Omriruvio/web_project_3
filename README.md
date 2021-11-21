@@ -1,7 +1,7 @@
 <h1 align="center">From Homeland to Homeland</h1>
 
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/omriruvio/web_project_3">
     <img src="./images/logo.svg" alt="Logo">
   </a>
   <br />
@@ -17,20 +17,18 @@
 </div>
 
 <div align="center">
-    <img src="./images/readme-screenshot-1.png?raw=true">
-    <img src="./images/readme-screenshot-2.png?raw=true">
-    <img src="./images/readme-screenshot-3.png?raw=true">
+    <img src="./images/readme-screenshot-1.png">
+    <img src="./images/readme-screenshot-2.png">
+    <img src="./images/readme-screenshot-3.png">
 </div>
+</br>
+</br>
 
----
-
-## About The Project
+### About The Project
 
 ---
 
 This is a project built to practice vanilla HTML and CSS web page building capabilities according to a designer made Figma specification. The project incorproates technologies allowing for responsive web page building such as flexbox and grid and no external frameworks are used. The project is build in accordance to BEM methodolody for CSS and HTML elements as well as the entire file structure directory. The web page showcases the hometowns of some of Practicum's employees as well as offers (fictional) NFT purchases.
-
----
 
 ### Built With
 
@@ -39,8 +37,6 @@ This is a project built to practice vanilla HTML and CSS web page building capab
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
 - [FIGMA](https://www.figma.com/)
-
----
 
 ### Roadmap
 
@@ -56,8 +52,6 @@ This is a project built to practice vanilla HTML and CSS web page building capab
 - [ ] Implement dark/light mode compatibility
 - [ ] Check loading times and add loading spinners where necessary
 - [ ] Create responsive readme.md file :)
-
----
 
 ### Contact
 
