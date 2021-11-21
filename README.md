@@ -16,13 +16,13 @@
   </p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img src="./images/readme-screenshot-1.png">
     <img src="./images/readme-screenshot-2.png">
     <img src="./images/readme-screenshot-3.png">
 </div>
 </br>
-</br>
+</br> -->
 
 ### About The Project
 
