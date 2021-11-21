@@ -2,6 +2,8 @@
   display: block;
   max-width: 100%;
   margin: auto;
+  background: #000000;
+  mix-blend-mode: luminosity;
 }
 
 /* TEMPORARY FOR MEDIA QUERY ON DEVTOOLS REMOVE OR IGNORE PLEASE */
