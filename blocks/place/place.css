@@ -3,7 +3,7 @@
   margin-top: 80px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 1fr 3fr 1fr;
+  /* grid-template-rows: 1fr 3fr 1fr; */
   gap: 48px 40px;
 
   grid-template-areas:
@@ -21,7 +21,14 @@
 @media screen and (max-width: 320px) {
   .place {
     margin-top: 50px;
-    display: flex;
-    flex-direction: column;
+    /* display: flex;
+    flex-direction: column; */
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "title"
+      "website"
+      "media"
+      "description"
+      "link";
   }
 }
