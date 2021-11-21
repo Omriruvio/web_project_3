@@ -1,0 +1,10 @@
+.buy-button_place_places-media {
+  grid-area: media;
+  margin-top: 48px;
+}
+
+@media screen and (max-width: 320px) {
+  .buy-button_place_places-media {
+    display: none;
+  }
+}

@@ -46,4 +46,6 @@
 /* modifiers */
 @import url("../blocks/buy-button/_place/buy-button_place_places.css");
 @import url("../blocks/buy-button/_place/buy-button_place_cover.css");
+@import url("../blocks/buy-button/_place/buy-button_place_places-media.css");
+@import url("../blocks/buy-button/_place/buy-button_place_places-link.css");
 /* modifiers */
