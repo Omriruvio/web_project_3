@@ -5,6 +5,12 @@
   margin: 32px 0 0;
 }
 
+@media screen and (max-width: 560px) {
+  .buy-button_place_cover {
+    margin-top: 24px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .buy-button_place_cover {
     margin-top: 16px;
