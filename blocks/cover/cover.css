@@ -15,12 +15,12 @@
   position: relative;
 }
 
-@media screen and (max-width: 560px) {
+/* @media screen and (max-width: 560px) {
   .cover {
     background-size: cover;
     height: 254px;
   }
-}
+} */
 
 /* @media screen and (max-width: 320px) {
   .cover {

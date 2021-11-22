@@ -1,6 +1,6 @@
 .buy-button_place_cover {
-  width: 137px;
-  height: 48px;
+  max-width: 137px;
+  max-height: 48px;
   z-index: 1;
   margin: 32px 0 0;
 }
