@@ -15,19 +15,20 @@
   position: relative;
 }
 
-/* @media screen and (max-width: 560px) {
+@media screen and (max-width: 560px) {
   .cover {
     background-size: cover;
-    height: 254px;
+    min-height: 254px;
   }
-} */
+}
 
-/* @media screen and (max-width: 320px) {
+@media screen and (max-width: 320px) {
   .cover {
     background-size: cover;
-    height: 254px;
+    min-height: 254px;
+    margin-top: 64px;
   }
-} */
+}
 
 .cover:hover .cover__overlay {
   opacity: 0.8;

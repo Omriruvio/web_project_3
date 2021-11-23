@@ -11,6 +11,6 @@
 
 @media screen and (max-width: 768px) {
   .place__paragraph {
-    line-height: 1.45;
+    font-size: 16px;
   }
 }
