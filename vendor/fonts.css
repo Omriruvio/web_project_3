@@ -30,11 +30,11 @@
   font-family: 'Inter';
   font-style: normal;
   font-weight: 600;
-  src: url('../fonts/inter-v7-latin-600.eot'); /* IE9 Compat Modes */
+  src: url('./fonts/inter-v7-latin-600.eot'); /* IE9 Compat Modes */
   src: local(''),
-       url('../fonts/inter-v7-latin-600.eot') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/inter-v7-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/inter-v7-latin-600.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/inter-v7-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/inter-v7-latin-600.svg') format('svg'); /* Legacy iOS */
+       url('./fonts/inter-v7-latin-600.eot') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/inter-v7-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/inter-v7-latin-600.woff') format('woff'), /* Modern Browsers */
+       url('./fonts/inter-v7-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/inter-v7-latin-600.svg') format('svg'); /* Legacy iOS */
   }

@@ -6,7 +6,6 @@
 /* blocks */
 @import url("../blocks/page/page.css");
 @import url("../blocks/logo/logo.css");
-@import url("../blocks/lead/lead.css");
 @import url("../blocks/intro/intro.css");
 @import url("../blocks/photo-grid/photo-grid.css");
 @import url("../blocks/places/places.css");
@@ -48,6 +47,4 @@
 @import url("../blocks/buy-button/_place/buy-button_place_cover.css");
 @import url("../blocks/buy-button/_place/buy-button_place_places-media.css");
 @import url("../blocks/buy-button/_place/buy-button_place_places-link.css");
-@import url("../blocks/buy-button/_hover/buy-button_hover.css");
-@import url("../blocks/cover/_hover/cover_hover.css");
 /* modifiers */
