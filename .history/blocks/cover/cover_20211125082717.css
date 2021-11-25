@@ -1,7 +1,7 @@
 .cover {
   /* dealing with background responsiveness */
-  /* min-height: calc(100vw * 0.625); original image height/width ratio multiplied by current viewport width */
-  min-height: 740px;
+  min-height: calc(100vw * 0.625); /* original image height/width ratio multiplied by current viewport width */
+  /* min-height: 740px; */
   max-width: 1184px;
   margin: 92px auto 0;
   background: url("../../images/cover-green-field.jpg") no-repeat center;
@@ -15,14 +15,9 @@
   position: relative;
 }
 
-@media screen and (max-width: 768px) {
-  .cover {
-    min-height: 746px;
-  }
-}
-
 @media screen and (max-width: 560px) {
   .cover {
+    background-size: cover;
     min-height: 254px;
   }
 }
